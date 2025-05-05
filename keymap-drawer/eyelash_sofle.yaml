@@ -146,43 +146,43 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: /, s: '?'}
-  - KP 9
-  - KP 8
-  - KP 7
+  - {t: '9', s: (}
+  - {t: '8', s: '*'}
+  - {t: '7', s: '&'}
   - '*'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - '*'
-  - KP 7
-  - KP 8
-  - KP 9
+  - {t: '7', s: '&'}
+  - {t: '8', s: '*'}
+  - {t: '9', s: (}
   - {t: /, s: '?'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '-', s: _}
-  - KP 6
-  - KP 5
-  - KP 4
+  - '6'
+  - {t: '5', s: '%'}
+  - '4'
   - +
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - +
-  - KP 4
-  - KP 5
-  - KP 6
+  - '4'
+  - {t: '5', s: '%'}
+  - '6'
   - {t: '-', s: _}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '=', s: +}
-  - KP 3
-  - KP 2
-  - KP 1
-  - KP 0
+  - '3'
+  - '2'
+  - '1'
+  - {t: '0', s: )}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
-  - KP 0
-  - KP 1
-  - KP 2
-  - KP 3
+  - {t: '0', s: )}
+  - '1'
+  - '2'
+  - '3'
   - {t: '=', s: +}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
